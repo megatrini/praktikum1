@@ -1,1 +1,2 @@
 hello word !
+from intan, putri, tasya, nadia, mega
